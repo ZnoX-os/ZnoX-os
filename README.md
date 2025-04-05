@@ -65,5 +65,4 @@ Let's build something awesome together! 🚀
 
 ---
 
-*(Optional: Add this at the bottom if you want the Gojo GIF smaller)*
 ![](https://media.tenor.com/1U5aRrP6kakAAAAC/gojo-satoru.gif width="300px")
