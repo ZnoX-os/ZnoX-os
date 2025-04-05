@@ -52,8 +52,8 @@ Let's build something awesome together! 🚀
 ## 💭 Code & Vibes
 
 ### 🎮 When I'm not coding, you'll find me...
-- Leveling up my skills like it's an RPG 📈
-- Brewing coffee ☕ like it's mission-critical code
+- Optimizing my snack stack like it's production infrastructure 🍕⚡  
+- Converting oxygen to CO₂ at alarming rates (a.k.a. breathing) 🌬️💨
 - Debating tabs vs spaces (tabs win, fight me) 🤺
 
 ### ✨ Coding Philosophy
