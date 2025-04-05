@@ -1,8 +1,6 @@
 # Willem Gerber  
 *Software Engineer in Training | Lifelong Learner*  
 
-![Banner](https://raw.githubusercontent.com/W-gerber/W-gerber/main/assets/gojo-satoru-gojo.gif)
-
 ---
 
 ## Table of Contents   
@@ -64,5 +62,3 @@ Let's build something awesome together! 🚀
 **Fun Fact:** This README was coded with 73% less bugs than the average tutorial project! 🐞➗
 
 ---
-
-![](https://media.tenor.com/1U5aRrP6kakAAAAC/gojo-satoru.gif width="300px")
