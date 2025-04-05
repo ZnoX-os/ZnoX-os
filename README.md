@@ -1,7 +1,7 @@
 # Willem Gerber  
 *Software Engineer in Training | Lifelong Learner*  
 
-![Banner](https://media.tenor.com/1U5aRqP6kakAAAAC/gojo-satoru.gif)  
+![Banner](https://i.postimg.cc/4yT3y7Zr/gojo-banner.gif)
 
 ---
 
