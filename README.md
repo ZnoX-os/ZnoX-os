@@ -66,8 +66,6 @@ Here's a snapshot of the programming languages I use, updated dynamically to ref
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-gerber&layout=compact&theme=gitdocify&bg_color=0d1117)](https://github.com/W-gerber)
 
-*The chart above is configured to blend seamlessly with GitHub's dark mode.*
-
 ---
 
 ## 🛠️ Tech & Tools
